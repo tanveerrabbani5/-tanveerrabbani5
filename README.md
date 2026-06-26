@@ -4,7 +4,6 @@ Aspiring DevOps & Cloud Engineer
 
 ## About Me
 
-- Final Year B.Tech IT Student
 - Learning DevOps and Cloud Engineering
 - Interested in AWS, Terraform, Docker, Kubernetes and CI/CD
 - Building real-world DevOps projects
